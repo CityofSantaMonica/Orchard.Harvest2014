@@ -4,9 +4,9 @@
 
 [http://www.proligence.pl](Proligence website)
 
-[mailto:info@proligence.pl](info@proligence.pl)
+[info@proligence.pl](info@proligence.pl)
 
-[mailto:piotr.szmyd@proligence.pl](piotr.szmyd@proligence.pl)
+[piotr.szmyd@proligence.pl](piotr.szmyd@proligence.pl)
 
 ##Orchard Testing Library
 
