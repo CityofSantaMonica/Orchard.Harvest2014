@@ -4,7 +4,7 @@
 
 ##Project
 
-Migrate [http://weblogs.asp.net](weblogs.asp.net) (~750 individual blogs) to Orchard
+Migrate [weblogs.asp.net](http://weblogs.asp.net) (~750 individual blogs) to Orchard
 
 ###Requirements
 
