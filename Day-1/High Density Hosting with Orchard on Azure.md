@@ -88,8 +88,10 @@ A **node** scales horizontally (4 of these on a single Azure instance)
 	  - in-place editing
   - SQL manager
 	- batch SQL queries e.g.
-	
-	    SELECT 'UPDATE ' + table_name FROM sys.tables WHERE table_name LIKE '%_Settings'
+	```SQL
+
+	SELECT 'UPDATE ' + table_name FROM sys.tables WHERE table_name LIKE '%_Settings'
+```
   
 ##Cost
 
