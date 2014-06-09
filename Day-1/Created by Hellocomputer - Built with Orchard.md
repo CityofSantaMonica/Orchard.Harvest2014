@@ -4,7 +4,7 @@
 
 Hellocomputer: digital arm of FCB (Foote, Cone & Belding) marketing agency.
 
-Every day: CODE REVIEW!
+Every day: **code review!**
 
 ##Case Study: Toyota
 
