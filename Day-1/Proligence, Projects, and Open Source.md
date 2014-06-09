@@ -25,7 +25,7 @@
 
 1. Testing driver/auth
 
-```c-sharp
+```csharp
 [Test]
 public void DisplayShouldNotCreateShapeWhenUserNotAuthorized()
 {
@@ -40,7 +40,7 @@ public void DisplayShouldNotCreateShapeWhenUserNotAuthorized()
 2. Testing content handlers
 
 
-```c-sharp
+```csharp
 [Test]
 public void ActivatingShouldNotWeldIdentityPartIfNotDirectoryContentType()
 {
@@ -51,7 +51,7 @@ public void ActivatingShouldNotWeldIdentityPartIfNotDirectoryContentType()
 
 3. Using content manager mocks
 
-```c-sharp
+```csharp
 [Test]
 public void GetOrCreateDirectoryShouldCreateDirectoryWhenDirectoryDoesNotExist()
 {
