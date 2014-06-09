@@ -2,7 +2,7 @@
 
 *Piotr Szmyd*
 
-[http://www.proligence.pl](Proligence website)
+[Proligence website](http://www.proligence.pl)
 
 [info@proligence.pl](info@proligence.pl)
 
@@ -10,7 +10,7 @@
 
 ##Orchard Testing Library
 
-**[https://bitbucket.org/proligence/proligence.orchard.testing](Orchard Testing Library on BitBucket)**
+**[Orchard Testing Library on BitBucket](https://bitbucket.org/proligence/proligence.orchard.testing)**
 
   - makes unit testing Orchard components and shapes easier
   - mocks, helpers, base fixture classes for testing
@@ -62,8 +62,9 @@ public void GetOrCreateDirectoryShouldCreateDirectoryWhenDirectoryDoesNotExist()
 
 ##Astoria Framework
 
-**[https://bitbucket.org/proligence/astoria](Astoria framework on BitBucket)**
-**[https://bitbucket.org/proligence/proligence.astoria.orchard-git](Asotria Orchard module on BitBucket)**
+**[Astoria framework on BitBucket](https://bitbucket.org/proligence/astoria)**
+
+**[Asotria Orchard module on BitBucket](https://bitbucket.org/proligence/proligence.astoria.orchard-git)**
 
 Quick and painless implementations of high performance back end services and APIs.
 
@@ -93,7 +94,7 @@ Requirement: make Orchard content and site management easily accessible from Pow
 
 Use case: moving a ton of Sharepoint content into Orchard using just PowerShell scripts
 
-**[https://orchardps.codeplex.com](Orchard PowerShell on CodePlex)**
+**[Orchard PowerShell on CodePlex](https://orchardps.codeplex.com)**
 
 ###Main Features
  
@@ -122,7 +123,7 @@ Use case: moving a ton of Sharepoint content into Orchard using just PowerShell 
   
 ##Many, many more Proligence examples
 
-**[https://bitbucket.org/proligence](Proligence on BitBucket)**
+**[Proligence on BitBucket](https://bitbucket.org/proligence)**
 
   - SignalR, Push Notifications
   - Service integration - SendGrid, New Relic
