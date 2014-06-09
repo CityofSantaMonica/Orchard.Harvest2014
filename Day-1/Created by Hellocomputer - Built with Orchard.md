@@ -8,7 +8,7 @@ Every day: CODE REVIEW!
 
 ##Case Study: Toyota
 
-[http://www.toyota.co.za](Toyota South Africa)
+[Toyota South Africa](http://www.toyota.co.za)
 
 Great example of Orchard as both a platform (e.g. bringing data into Orchard from external services) and CMS
 
@@ -28,7 +28,7 @@ Great example of Orchard as both a platform (e.g. bringing data into Orchard fro
   
 ##Case Study: JTB (Jamaica Tourism Board)
 
-[http://www.visitjamaica.com](Visit Jamaica)
+[Visit Jamaica](http://www.visitjamaica.com)
 
 Great example of Orchard as a CMS for large, high-traffic website
 
@@ -46,7 +46,7 @@ Great example of Orchard as a CMS for large, high-traffic website
 
 ##Case Study: FCB
 
-[http://fcb.hellostaging.co.za](FCB staging site)
+[FCB staging site](http://fcb.hellostaging.co.za)
 
 Great example of a highly visual, creative/marketing site.
 
