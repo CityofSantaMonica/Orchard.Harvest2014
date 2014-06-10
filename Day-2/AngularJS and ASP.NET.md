@@ -54,3 +54,5 @@ Using server-side rendering to create the template that AngularJS can use to ren
   - Scaffolding of service proxies from server-side APIs
   - Full IntelliSense for AngularJS in views (HTML) & JS/TS
   - Templates & snippets
+
+> The next version of ASP.NET will support async calls
