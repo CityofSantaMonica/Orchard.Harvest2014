@@ -7,7 +7,7 @@
   - Static pages: manage HTML pages, reuse Notepad
   - Dynamic pages: manage databases, reuse APIs
   - CMS: manage content, reuse modules/themes
-  - SAAS: manage software, reuse 
+  - SAAS: manage software, reuse ?
   
 ##Open-*
 
@@ -32,7 +32,7 @@
 
   - DotNetNuke: marketing, widget system, "they are not French"
   - Drupal: community, company behind them
-  - SiteCode: support, resources (books), localization
+  - SiteCore: support, resources (books), localization
   - Sitefinity: user-friendly (drag/drop)
   - Umbraco: training, content organization (in a tree)
   - WordPress: themes, easier to approach for "normal" users, setup
@@ -131,7 +131,7 @@ This is **not about** "How do I change the title red?"
 
 > Does ASP.NET vNext have a place for Orchard?
 
-> Yeah, we need Orchard to work there. It's important for them [the ASP.NET vNext], because it validates whether or not ASP.NET vNext works.
+> Yeah, we need Orchard to work there. It's important for [the ASP.NET team], because it validates whether or not ASP.NET vNext works.
 
 ###Benefits
 
