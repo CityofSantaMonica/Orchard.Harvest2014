@@ -2,6 +2,8 @@
 
 *Bing Huan Chio*
 
+[Youtube video](https://www.youtube.com/watch?v=csd0Z3hHDDw)
+
 [cbingh@microsoft.com](cbingh@microsoft.com)
 
 ##Why Orchard?

@@ -1,5 +1,11 @@
 #The Future of .NET on the Server
 
+*Elon Lipton*
+
+*Scott Hunter*
+
+[Youtube video](https://www.youtube.com/watch?v=DYph_MtQLJw)
+
 **.NET Stats**
 
 1.8B active installs of .NET

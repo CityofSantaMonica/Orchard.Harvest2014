@@ -2,6 +2,8 @@
 
 *Taylor Mullen*
 
+[Youtube video](https://www.youtube.com/watch?v=kqgIByKn9Wk)
+
 ##Install VS14 CTP1
 
 (This is not side-by-side safe)

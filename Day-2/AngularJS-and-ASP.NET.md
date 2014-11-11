@@ -2,6 +2,8 @@
 
 *Damian Edwards*
 
+[Youtube Video](https://www.youtube.com/watch?v=Eu8ixE_ZOLM)
+
 > Moving foward, you'll see...more focus on the client [from the ASP.NET team]
 
 ##ASP.NET Single Page Application Future

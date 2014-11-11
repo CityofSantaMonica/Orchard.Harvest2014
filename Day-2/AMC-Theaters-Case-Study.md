@@ -4,6 +4,8 @@
 
 *Adam Anderson*
 
+[Youtube video](https://www.youtube.com/watch?v=27yiZc9YvhY)
+
 Bulk of their content [e.g. on homepage] is surfaced through API layer, called from Orchard widgets.
 
 Custom admin area "Theater Media" to manage images/media metadata for each Theater. Created before new *Media Manager* module.

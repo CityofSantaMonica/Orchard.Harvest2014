@@ -2,6 +2,8 @@
 
 *Bertrand, Sebastien, Sipke, Piotr*
 
+[Youtube video](https://www.youtube.com/watch?v=8LoaAn_qfs4)
+
 > **Where is the project now?**
 
 > **Piotr:** I use Orchard in almost every project...I have real faith in the future.

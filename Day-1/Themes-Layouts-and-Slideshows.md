@@ -3,6 +3,8 @@
 
 *Onstop Internet*
 
+[Youtube video](https://www.youtube.com/watch?v=RcigxgWwJtY)
+
 ##CMS Nightmares
 
   - content shoe-horned into CMS (copy/paste HTML/JS/CSS) into body

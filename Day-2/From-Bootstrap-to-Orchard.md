@@ -2,6 +2,8 @@
 
 *Sebastien Ros*
 
+[Youtube video](https://www.youtube.com/watch?v=gj5two6swwk)
+
 > If you aren't using Bootstrap, you are doing it **wrong!** 
 
 ##Why Bootstrap?

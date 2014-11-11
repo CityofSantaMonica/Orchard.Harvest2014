@@ -2,6 +2,8 @@
 
 *Sebastien Ros*
 
+[Youtube video](https://www.youtube.com/watch?v=XGl0Zza1HO8)
+
 ##Web Evolution
 
   - Static pages: manage HTML pages, reuse Notepad

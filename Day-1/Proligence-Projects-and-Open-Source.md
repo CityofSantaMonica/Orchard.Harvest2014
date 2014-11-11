@@ -2,6 +2,8 @@
 
 *Piotr Szmyd*
 
+[Youtube video](https://www.youtube.com/watch?v=Gek9e8Mwr-s)
+
 [Proligence website](http://www.proligence.pl)
 
 [info@proligence.pl](info@proligence.pl)

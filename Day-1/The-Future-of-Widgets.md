@@ -1,6 +1,8 @@
-#The Future of Widgets
+#The Future of Widgets?
 
 *Steve Taylor*
+
+[Youtube video](https://www.youtube.com/watch?v=A4jlqh1N7TE)
 
 [Polymer Project](http://polymer-project.org)
 

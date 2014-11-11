@@ -2,6 +2,8 @@
 
 *Samuel Goldenbaum*
 
+[Youtube video](https://www.youtube.com/watch?v=WTKZDOE7w7U)
+
 Hellocomputer: digital arm of FCB (Foote, Cone & Belding) marketing agency.
 
 Every day: **code review!**

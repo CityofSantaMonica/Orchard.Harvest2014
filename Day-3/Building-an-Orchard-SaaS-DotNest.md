@@ -2,6 +2,10 @@
 
 *Lombiq Technologies: Zoltán Lehóczky, Benedek Farkas*
 
+[Orchard Spring Harvest Challenge Youtube video](https://www.youtube.com/watch?v=zUOtuzvo7Hk)
+
+[Building an Orchard SaaS Youtube video](http://youtu.be/zUOtuzvo7Hk?t=18m54s)
+
 ##What should SaaS do?
 
 > We think it should work, it should work reliably, it should work fast, it should work "well", and it should work seamlessly.

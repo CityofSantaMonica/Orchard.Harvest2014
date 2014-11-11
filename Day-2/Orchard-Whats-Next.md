@@ -2,6 +2,8 @@
 
 *Sebastein Ros*
 
+[Youtube video](https://www.youtube.com/watch?v=7uQedCsj7dg)
+
 ##Audit Trail
 
 A security-related chronological record of "what happened"

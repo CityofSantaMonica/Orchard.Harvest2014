@@ -2,6 +2,8 @@
 
 *Sebastien Ros*
 
+[Youtube video](https://www.youtube.com/watch?v=0WK1ovH_lb0)
+
 ##Project
 
 Migrate [weblogs.asp.net](http://weblogs.asp.net) (~750 individual blogs) to Orchard
